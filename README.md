@@ -1,5 +1,4 @@
-# conda_recipes
-Conda recipes
+# Conda recipes
 
 ## Recipes for Galaxy Tool Dependencies
 
